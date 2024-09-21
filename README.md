@@ -1,2 +1,2 @@
-# ConvNetFusion
-Leveraging a combination of a convolutional architecture, joined with a feed-forward neural network, to generate simple-images. The simplicity of this model has limitations. However, with further implementation and research, could potentially surpass GANs.
+# Attempt 1
+Training on cifar10, first attempt leverages a very simple model.
